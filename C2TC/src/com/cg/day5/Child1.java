@@ -1,4 +1,4 @@
-package hierarchical;
+package com.cg.day5;
 
 public class Child1 extends Parent {
 	void mul(int a,int b) {

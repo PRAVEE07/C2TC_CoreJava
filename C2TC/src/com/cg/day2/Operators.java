@@ -1,9 +1,8 @@
-package basics_day1;
+package com.cg.day2;
 
-public class Basicsjava {
+public class Operators {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int n1=3;
 		int n2=3;
 		System.out.println("n1+n2:" +(n1+n2));
@@ -11,7 +10,7 @@ public class Basicsjava {
 		System.out.println("n1*n2:"+(n1*n2));
 		System.out.println("n1/n2:"+(n1/n2));
 		System.out.println("n1%n2:"+(n1%n2));
-		//System.out.println("n1^n2:"+(n1^n2));
+		System.out.println("n1^n2:"+(n1^n2));
 	}
-
+	
 }

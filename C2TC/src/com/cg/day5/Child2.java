@@ -1,4 +1,4 @@
-package hierarchical;
+package com.cg.day5;
 
 public class Child2 extends Child1 {
 	void sub(int a,int b) {
